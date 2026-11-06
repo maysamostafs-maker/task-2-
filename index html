@@ -1,7 +1,7 @@
 <!DocTYPEHTML>
 <html>
     <head>
-        <metacharser="UTF-8">
+        <meta charser="UTF-8">
             <meta name="viewport"content="width-device-width"
             < title>CSS</title>
     </head>
@@ -67,5 +67,4 @@ CSS
             الانترنت شبكه عالميه مترابطه بإستخدام الاجهزه الذكيه والحواسيب بأستخدام بروتوكولات مثل بروتوكول الانترنت
         </oL>
     </body>
- 
-</html
+</html>
